@@ -1,0 +1,43 @@
+body{
+    font-family: cursive;
+    background-color: rgb(105, 158, 255);
+}
+
+.header_div{
+    background-color: rgb(255, 255, 255);
+    color: rgb(68, 0, 255);
+}
+
+.header_div img{
+    width: 100px;
+    display: inline-block;
+}
+
+.main_div{
+    background-color: rgb(138, 169, 194);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px dotted rgb(129, 194, 194);
+}
+
+#camera{
+    border: 2px dotted rgb(129, 194, 194);
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px darkblue;
+}
+
+.main_div label{
+    background-color: rgb(171, 219, 215);
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px darkblue;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px darkblue;
+    border: 1px solid;
+}
